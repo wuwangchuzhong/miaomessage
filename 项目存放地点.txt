@@ -1,0 +1,29 @@
+1.主项目地址 F:\ASShop\ydApp
+2.mvc及demo mysql地址 G:\miaonewmvp
+3.android 新手蒙版 G:\miaonewmvp\NewbieGuide-master
+4.组件化项目 G:\miaonewmvp\AndroidComponent\AndroidComponent-master
+5.直播小项目基础 F:\yidianlive\ydLive(观众观看)
+6.mvp参考项目之基础 G:\miaonewmvp\YiZhi-master
+7.直播播录小项目 F:\miaolive\yidianlive
+8.直播网红小项目 F:\miaolive\yidianlive\ydLive（主播播放）
+9.主播直播同步拍项目 F:\AsAuctionLive\AuctionVLive
+
+
+博客地址
+https://www.jianshu.com/p/5e80c7aee1fc
+greenDao
+https://github.com/greenrobot/greenDAO
+https://www.jianshu.com/p/dac3bd9bad72
+https://www.jianshu.com/p/4986100eff90（易懂）
+//实现讲解的demo
+http://blog.csdn.net/u011071427/article/details/53117031
+
+加入gradle的GreenDao数据库报错，缺少apply
+
+http://blog.csdn.net/iamdingruihaha/article/details/62038243?winzoom=1
+(github上传图片)
+
+//直播间消息中的适配器
+MsgAdapter
+
+MsgViewHolderBase
