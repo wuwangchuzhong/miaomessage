@@ -1,0 +1,10 @@
+ssh切换为终端时 输入的代码
+
+
+
+然后在终端中输入：
+
+$ git remote set-url origin https://github.com/YourUserName/YatouTest00123.git 
+
+
+注：origin后面换成刚刚让你复制的仓库地址。
